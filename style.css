@@ -1,9 +1,9 @@
 body {
-  background: white;
+  background: purple;
 }
 form label{
   display: block;
-  font-size: 20px
+  font-size: 40px
     color: black;
 }
 for input{
